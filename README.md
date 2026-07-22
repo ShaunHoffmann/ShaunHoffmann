@@ -6,9 +6,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="Shaun Hoffmann — Robotics Perception, AI/ML, Full-Stack" src="./assets/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/sky-blue-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/sky-blue-light.svg">
+    <img alt="Shaun Hoffmann — Robotics Perception, AI/ML, Full-Stack" src="./assets/sky-blue-dark.svg" width="100%">
   </picture>
 </p>
 

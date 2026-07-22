@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610">
+<defs>
+<linearGradient id="ag" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#9333EA"><animate attributeName="stop-color" values="#9333EA;#DB2777;#7C3AED;#9333EA" dur="9s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#DB2777"><animate attributeName="stop-color" values="#DB2777;#7C3AED;#9333EA;#DB2777" dur="9s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="bd" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#9333EA"/><stop offset="50%" stop-color="#DB2777"/><stop offset="100%" stop-color="#7C3AED"/></linearGradient>
+<radialGradient id="bg" cx="30%" cy="18%" r="85%">
+  <stop offset="0%" stop-color="#FBF5FF"/><stop offset="100%" stop-color="#F1E1FC"/></radialGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#E879F9" stop-opacity="0"/><stop offset="50%" stop-color="#E879F9" stop-opacity="0.55"/><stop offset="100%" stop-color="#E879F9" stop-opacity="0"/></linearGradient>
+<pattern id="sl" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#7C3AED" opacity="0.035"/></pattern>
+<mask id="reveal"><rect x="14" y="64" width="470" height="0" fill="#fff"><animate attributeName="height" from="0" to="522" dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect></mask>
+<clipPath id="r0"><rect x="506" y="109.0" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="0.7s" fill="freeze"/></rect></clipPath>
+<clipPath id="r1"><rect x="506" y="130.6" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="0.81s" fill="freeze"/></rect></clipPath>
+<clipPath id="r2"><rect x="506" y="152.2" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="0.92s" fill="freeze"/></rect></clipPath>
+<clipPath id="r3"><rect x="506" y="173.8" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.03s" fill="freeze"/></rect></clipPath>
+<clipPath id="r4"><rect x="506" y="195.4" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.14s" fill="freeze"/></rect></clipPath>
+<clipPath id="r6"><rect x="506" y="238.6" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.25s" fill="freeze"/></rect></clipPath>
+<clipPath id="r7"><rect x="506" y="260.2" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.36s" fill="freeze"/></rect></clipPath>
+<clipPath id="r8"><rect x="506" y="281.8" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.47s" fill="freeze"/></rect></clipPath>
+<clipPath id="r9"><rect x="506" y="303.4" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.58s" fill="freeze"/></rect></clipPath>
+<clipPath id="r11"><rect x="506" y="346.6" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.69s" fill="freeze"/></rect></clipPath>
+<clipPath id="r12"><rect x="506" y="368.2" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.8s" fill="freeze"/></rect></clipPath>
+<clipPath id="r14"><rect x="506" y="411.4" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="1.91s" fill="freeze"/></rect></clipPath>
+<clipPath id="r15"><rect x="506" y="433.0" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="2.02s" fill="freeze"/></rect></clipPath>
+<clipPath id="r16"><rect x="506" y="454.6" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="2.13s" fill="freeze"/></rect></clipPath>
+<clipPath id="r17"><rect x="506" y="476.2" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="2.24s" fill="freeze"/></rect></clipPath>
+<clipPath id="r18"><rect x="506" y="497.8" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="2.35s" fill="freeze"/></rect></clipPath>
+<clipPath id="r20"><rect x="506" y="541.0" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="2.46s" fill="freeze"/></rect></clipPath>
+<clipPath id="r21"><rect x="506" y="562.6" width="0" height="22"><animate attributeName="width" from="0" to="628" dur="0.34s" begin="2.57s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="1180" height="610" rx="18" fill="url(#bg)"/>
+<rect width="1180" height="610" rx="18" fill="url(#sl)"/>
+<rect x="3" y="3" width="1174" height="34" rx="16" fill="#F1E1FC" fill-opacity="0.85"/>
+<circle cx="24" cy="20" r="5" fill="#EF4444"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="42" cy="20" r="5" fill="#F59E0B"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="60" cy="20" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.55;1" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="590.0" y="24" text-anchor="middle" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#7A5C96" letter-spacing="0.5">shaun@gulls ~ $ ./profile.sh --live</text>
+<circle cx="1122" cy="20" r="4" fill="#A21CAF"><animate attributeName="opacity" values="1;0.15;1" dur="1.1s" repeatCount="indefinite"/></circle>
+<text x="1132" y="24" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#A21CAF" letter-spacing="1">LIVE</text>
+<rect x="14" y="64" width="470" height="522" rx="14" fill="#F1E1FC" fill-opacity="0.35" stroke="url(#bd)" stroke-width="1" opacity="0.4"/>
+<rect x="498" y="64" width="668" height="522" rx="14" fill="#F1E1FC" fill-opacity="0.35" stroke="url(#bd)" stroke-width="1" opacity="0.4"/>
+<text x="30" y="58" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#C026D3" letter-spacing="2" opacity="0.7">VISUAL.MAP</text>
+<text x="514" y="58" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#C026D3" letter-spacing="2" opacity="0.7">SYSTEM.INFO</text>
+<g mask="url(#reveal)"><text font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="7.2" fill="url(#ag)" letter-spacing="-0.2px" xml:space="preserve">
+<tspan x="43.8" y="134.00">                                        ``````  ``                                             </tspan>
+<tspan x="43.8" y="142.30">                                      ````:`:```                                               </tspan>
+<tspan x="43.8" y="150.60">                                     ``` `` `              ``                                  </tspan>
+<tspan x="43.8" y="158.90">                                   `    `` `-,`      ``                                        </tspan>
+<tspan x="43.8" y="167.20">                                  ```  ``` :~~,:``  ````` `:                                   </tspan>
+<tspan x="43.8" y="175.50">                                 ````` :,::-+=-,:`    `````:`                                  </tspan>
+<tspan x="43.8" y="183.80">                                  ``:`::,:,~+=~~,:,`    `  `:                                  </tspan>
+<tspan x="43.8" y="192.10">                                  `` `::,~=+==++~~=~--,,,:``:``                                </tspan>
+<tspan x="43.8" y="200.40">                                    `,-======+iiii++++=++=,```                                 </tspan>
+<tspan x="43.8" y="208.70">                                 :~-,+iliiiiii++i+=+ii+==i-` :`                                </tspan>
+<tspan x="43.8" y="217.00">                                 :l+~+iilcllli+ili=+llllli~:-+`                                </tspan>
+<tspan x="43.8" y="225.30">                                  -l+=illllii+++i+=+lllli+~~i-                                 </tspan>
+<tspan x="43.8" y="233.60">                                   :-=iiliiiiiiiii+iillli+=i-                                  </tspan>
+<tspan x="43.8" y="241.90">                                     =iili+~=illli+=+illi=:`                                   </tspan>
+<tspan x="43.8" y="250.20">                                     -+illli+iiiii+=illii,                                     </tspan>
+<tspan x="43.8" y="258.50">                                     ,=+iiiilliiiiiiiii+-                                      </tspan>
+<tspan x="43.8" y="266.80">                                     -+=++iillllllli++==:                                      </tspan>
+<tspan x="43.8" y="275.10">                                     -i+===+iiiiii++==+i-                                      </tspan>
+<tspan x="43.8" y="283.40">                                    :=iii++=========+iii=~,                                    </tspan>
+<tspan x="43.8" y="291.70">                                  :ii+iiiiiiiiiii++iiiii+i%=:                                  </tspan>
+<tspan x="43.8" y="300.00">                                 :ox=iiiiiiiilllliiillllix#*xl-                                </tspan>
+<tspan x="43.8" y="308.30">                                ,c*e+iiilllllllllillcclle8#**8e+=-,:`                          </tspan>
+<tspan x="43.8" y="316.60">                             `,=ooo%xiilllllccacccaaaao#8%%%%8%#eoali+~,:`                     </tspan>
+<tspan x="43.8" y="324.90">                           ,=lx#*xxe%*accaaaaaaaaoxxox88%%%88%#**%@8%##exai=,:                 </tspan>
+<tspan x="43.8" y="333.20">                       :-=l##eaaceeee*#oooooaaoaoxexxe*#%888%lllllaacclllcoxacl+-:             </tspan>
+<tspan x="43.8" y="341.50">                   :-+lalaoclillle**exe*#%8%#xce#88888%%#%88%##8#aaaoaoxxacacillaol=:          </tspan>
+<tspan x="43.8" y="349.80">                :~loocllllllo*%%8%%%#%##**xxclllcaeex*e**e#%8@8%%@@@@@@@%88888#xcic#e~         </tspan>
+<tspan x="43.8" y="358.10">             `-+llllllc#888#%%*exacclllliili++liiiiiiiiiiillllllloaccaaclix%@@@@8%elll:        </tspan>
+<tspan x="43.8" y="366.40">           `=illlcx*%#%%%#xllliiiiiiiiiilllc#*xxooaoaaaalllllilliiiiiiiiiiiillxlillii+=        </tspan>
+<tspan x="43.8" y="374.70">          `lxx*#%8%*xlilli+iiiillcoxe*#%%%8@@@@@@@@@@@@@@@88%%%%*e*#*eee#cillle#%%8*#ee+       </tspan>
+<tspan x="43.8" y="383.00">         `=++ieaclii+++iiio**#%888@@@@@@88%*e*eee%@@88@@@@@@@@@@@@@@@@@@@8%#x@@@@8@###e#-      </tspan>
+<tspan x="43.8" y="391.30">         +xxoac+ii+iico*##8@@@@888%%#*xcliilllllliilliillllccaaaaeee*%%%%%@@@8%#eexlcllli      </tspan>
+<tspan x="43.8" y="399.60">        ,oxe###cloe##888#***xalllliilllcoao8@@@@@%###%**e**eexxolllliillilollliiiii++++=i-     </tspan>
+<tspan x="43.8" y="407.90">        ~llo*#%%%@88#%#xliillcaxe*%%888@@888@@@@@88@@@@@%ox*e**#@@@@88888*i+iliilliillliil:    </tspan>
+<tspan x="43.8" y="416.20">       :+++=++lax#%#el+i%%88@@@@@8888%%8%%%#**eeo*%88888%*e*xeac#88%%@@@@*laxx*88#*%8%*e*8l    </tspan>
+</text></g>
+<g clip-path="url(#r0)"><text x="522" y="124.0" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Subject</tspan><tspan fill="#C4A3D8"> ....................... </tspan><tspan fill="#3B0764">Shaun Hoffmann</tspan>
+</text></g>
+<g clip-path="url(#r1)"><text x="522" y="145.6" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Role</tspan><tspan fill="#C4A3D8"> .......................... </tspan><tspan fill="#3B0764">Robotics Perception + AI/ML - Full-Stack</tspan>
+</text></g>
+<g clip-path="url(#r2)"><text x="522" y="167.2" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Origin</tspan><tspan fill="#C4A3D8"> ........................ </tspan><tspan fill="#3B0764">Severn, Maryland</tspan>
+</text></g>
+<g clip-path="url(#r3)"><text x="522" y="188.8" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Education</tspan><tspan fill="#C4A3D8"> ..................... </tspan><tspan fill="#3B0764">Salisbury University - B.S. CS, Math minor &#x27;27</tspan>
+</text></g>
+<g clip-path="url(#r4)"><text x="522" y="210.4" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Focus</tspan><tspan fill="#C4A3D8"> ......................... </tspan><tspan fill="#3B0764">Unitree G1 perception - LiDAR, SLAM, YOLOv8</tspan>
+</text></g>
+<g clip-path="url(#r6)"><text x="522" y="253.6" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Core</tspan><tspan fill="#C4A3D8">.</tspan><tspan fill="#C026D3" font-weight="bold">Lang</tspan><tspan fill="#C4A3D8"> ..................... </tspan><tspan fill="#3B0764">C++, Python, Java</tspan>
+</text></g>
+<g clip-path="url(#r7)"><text x="522" y="275.2" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Core</tspan><tspan fill="#C4A3D8">.</tspan><tspan fill="#C026D3" font-weight="bold">Robotics</tspan><tspan fill="#C4A3D8"> ................. </tspan><tspan fill="#3B0764">ROS 2, PyTorch, YOLOv8, Open3D</tspan>
+</text></g>
+<g clip-path="url(#r8)"><text x="522" y="296.8" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Core</tspan><tspan fill="#C4A3D8">.</tspan><tspan fill="#C026D3" font-weight="bold">Web</tspan><tspan fill="#C4A3D8"> ...................... </tspan><tspan fill="#3B0764">React, PHP, JavaScript, MySQL</tspan>
+</text></g>
+<g clip-path="url(#r9)"><text x="522" y="318.4" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Core</tspan><tspan fill="#C4A3D8">.</tspan><tspan fill="#C026D3" font-weight="bold">Infra</tspan><tspan fill="#C4A3D8"> .................... </tspan><tspan fill="#3B0764">Git, Linux/WSL, Docker</tspan>
+</text></g>
+<g clip-path="url(#r11)"><text x="522" y="361.6" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#A21CAF" font-weight="bold">- Recent </tspan><tspan fill="#C4A3D8">----------------------------------------</tspan>
+</text></g>
+<g clip-path="url(#r12)"><text x="522" y="383.2" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Award</tspan><tspan fill="#C4A3D8"> ......................... </tspan><tspan fill="#3B0764">Best Use of Snowflake API - HoyaHacks 2026</tspan>
+</text></g>
+<g clip-path="url(#r14)"><text x="522" y="426.4" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#A21CAF" font-weight="bold">- Contact </tspan><tspan fill="#C4A3D8">---------------------------------------</tspan>
+</text></g>
+<g clip-path="url(#r15)"><text x="522" y="448.0" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Mail</tspan><tspan fill="#C4A3D8"> .......................... </tspan><tspan fill="#3B0764">shoffmann2@gulls.salisbury.edu</tspan>
+</text></g>
+<g clip-path="url(#r16)"><text x="522" y="469.6" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">Portfolio</tspan><tspan fill="#C4A3D8"> ..................... </tspan><tspan fill="#3B0764">shaunhoffmann.github.io</tspan>
+</text></g>
+<g clip-path="url(#r17)"><text x="522" y="491.2" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">LinkedIn</tspan><tspan fill="#C4A3D8"> ...................... </tspan><tspan fill="#3B0764">shaunhoffmann</tspan>
+</text></g>
+<g clip-path="url(#r18)"><text x="522" y="512.8" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#C026D3" font-weight="bold">GitHub</tspan><tspan fill="#C4A3D8"> ........................ </tspan><tspan fill="#3B0764">ShaunHoffmann</tspan>
+</text></g>
+<g clip-path="url(#r20)"><text x="522" y="556.0" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#A21CAF" font-weight="bold">- Live Stats </tspan><tspan fill="#C4A3D8">------------------------------------</tspan>
+</text></g>
+<g clip-path="url(#r21)"><text x="522" y="577.6" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<tspan fill="#3B0764">See GitHub stats badges below in README v</tspan>
+</text></g>
+<text x="522" y="98.0" font-family="'Courier New',Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="bold" fill="#9333EA">shaun@gulls<tspan fill="#C4A3D8" font-size="14"> --------------------------------------</tspan></text>
+<rect x="0" y="-70" width="1180" height="70" fill="url(#scan)" opacity="0.7" style="mix-blend-mode:multiply"><animateTransform attributeName="transform" type="translate" from="0 -70" to="0 680" dur="4.2s" repeatCount="indefinite"/></rect>
+<rect x="3" y="3" width="1174" height="604" rx="16" fill="none" stroke="url(#bd)" stroke-width="2" opacity="0.8"><animate attributeName="opacity" values="0.5;0.95;0.5" dur="3.2s" repeatCount="indefinite"/></rect>
+</svg>
